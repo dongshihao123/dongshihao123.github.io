@@ -1,21 +1,15 @@
 ---
 permalink: /
-title: "欢迎来到我的主页"
+title: "Welcome"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Test test test the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+I graduated from the School of Highway at Chang'an University in June 2022 with a Ph.D. in Engineering under the supervision of Professor Sen Han. I currently serves as an academic associate professor at the School of Transportation at Shandong University of Science and Technology. My primary research areas include finite element analysis of anti-skid and noise-reducing asphalt pavements, resource recycling of industrial waste, and machine learning applications in road engineering. I am a guest editor for Coatings and serves as a youth editorial board member for journals such as Journal of Chang'an University (Natural Science Edition), Highway Engineering, and Municipal Technology. I also reviews for journals including Construction and Building Materials, International Journal of Pavement Research and Technology, and Shandong Transportation Science and Technology. He is a fellow of the Vebleo Association, an international scientific organization. As the first or corresponding author, I have published over ten high-quality papers in leading international journals such as China Journal of Highway and Transport, Computer-Aided Civil and Infrastructure Engineering, and Construction and Building Materials. My accolades include nomination for the "2024 China Simulation Society High-Quality Ph.D. Thesis Incentive Program," "Chang'an University Outstanding Graduate," and the "2023 Chang'an University Outstanding Ph.D. Thesis Award." Additionally, I led a team that won second place in the "National College Students Transportation Science and Technology Competition."
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
 For those users that need more advanced functionality, the template also supports the following popular tools:
 - [MathJax](https://www.mathjax.org/) for mathematical equations
